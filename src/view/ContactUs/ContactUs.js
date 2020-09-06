@@ -10,7 +10,7 @@ export default class Contact extends React.Component{
                 <div className="contact-sec1">
                     <div className="contact-sec1-text">
                         <h1 className="contact-sec1-h1">Contact Us</h1>
-                        <p><a href="/">Home</a><span> | </span><a href="/contact">Contact Us</a></p>
+                        <p><a href="/">Home</a><span> | </span><a href="/contact">Contact</a></p>
                     </div>
                 </div>
                 <div className="contact-sec2">
