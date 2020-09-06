@@ -1,5 +1,5 @@
 import React from 'react';
-<<<<<<< HEAD
+
 import {BrowserRouter as Router, Route} from 'react-router-dom'
 import "bootstrap/dist/css/bootstrap.min.css"
 
@@ -26,16 +26,7 @@ function App() {
         <Route path="/contact" component={ContactUs}/>
         <Footer/>
     </Router>
-=======
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      Hello World!
-    </div>
->>>>>>> b7aaefb2f65e2b965a1d45ec4a3703a11947919e
-  );
+  )
 }
 
 export default App;
