@@ -1,0 +1,55 @@
+.pic1-form1,.pic2-form2,.pic3-form3{
+    display: flex;
+    padding-top:20px;
+    padding-bottom: 30px;
+}
+.pic1{
+    background-image: url(../../assets/image/bg_1.jpg);
+}
+.pic2{
+    background-image: url(../../assets/image/LS2.jpg);
+}
+.pic3{
+    background-image: url(../../assets/image/order.jpg);
+}
+.pic1,.pic2,.pic3{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:600px;
+    height:650px;
+    /* text-align: center;
+    position: relative; */
+}
+/* .contact-sec3-pic1::before,.contact-sec3-pic2::before,.contact-sec3-pic3::before{
+    position: absolute;
+    content: '';
+    width:554px;
+    height:650px;
+    left: 0;
+    top: 0;
+    background-color: #333333;
+    opacity: 0.4;
+} */
+.text1,.text2,.text3{
+    position: relative;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.text1-icon1,.text2-icon2,.text3-icon3{
+    margin-top: 230px;
+}
+.text1-head1,.text2-head2,.text3-head3{
+    padding: 0px;
+}
+
+.head1,.head2,.head3{
+    text-align: center;
+    padding-top:40px;
+    padding-bottom:40px;
+}
+.form1,.form2,.form3{
+    width:600px;
+    padding-left:50px;
+}
